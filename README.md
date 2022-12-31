@@ -1,5 +1,6 @@
 # Telegram-Bot-Local-Database
-git repo for youtube video
+
+This Python project connects a Telegram chatbot, built with the Telethon library, to a local database. The chatbot can be used to perform various actions on the database, such as inserting, updating, and retrieving data.
 
 APP_ID and API_HASH for telethon: https://my.telegram.org/auth
 
